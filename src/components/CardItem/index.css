@@ -1,0 +1,46 @@
+.card-1 {
+  border-top: 5px solid #ff4f64;
+}
+
+.card-2 {
+  border-top: 5px solid #00a8e7;
+}
+
+.card-3 {
+  border-top: 5px solid #44c4a1;
+}
+
+.card-4 {
+  border-top: 5px solid #fcc200;
+}
+
+/* Write CSS code here. */
+.technology-card-item {
+    background-color: #fff;
+    height: 100px;
+    width: 180px;
+}
+
+.matter-container {
+    display: flex;
+    flex-direction: column;
+    font-family: "roboto";
+}
+
+.title {
+    font-size: 15px;
+    font-weight: bold;
+}
+.description {
+    font-size: 9px;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: end;
+}
+
+.imageUrl {
+    height: 40px;
+    width: 28px;
+}
